@@ -1,0 +1,2 @@
+- 2026-04-25: Expand README with detailed use cases, examples, background, search examples, and output examples.
+- 2026-04-25: BIEN-TraitsShinyApp-Project sync/push final-gate verification prompt for always-gate compliance.

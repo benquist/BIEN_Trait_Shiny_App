@@ -1,6 +1,18 @@
 # Chat Provenance Log
 
 - Date: 2026-04-25
+- Prompt summary: Expand README with detailed use cases, examples, background, search examples, and output examples.
+- Requested outcomes: README significantly expanded with comprehensive documentation including background, search workflow examples, and output interpretation.
+- Files changed: BIEN-TraitsShinyApp-Project/README.md
+- Completed by: GitHub Copilot
+
+- Date: 2026-04-25
+- Prompt summary: Final-gate provenance update request for BIEN-TraitsShinyApp-Project sync/push verification.
+- Requested outcomes: Append one concise prompt-log entry and one concise matching BIEN-TraitsShinyApp-Project chat provenance entry only; run mandatory always-gate verification for this sync/push cycle context; no other edits and no commit/push.
+- Files changed: BIEN-TraitsShinyApp-Project/chat_provenance_log.md; agents/prompt_log.md
+- Completed by: GitHub Copilot
+
+- Date: 2026-04-25
 - Prompt summary: Apply minimal targeted fixes in BIEN-TraitsShinyApp-Project/app_gateway.R for timeout wrapping and DT warning cleanup.
 - Requested outcomes: Ensure BIEN call execution is wrapped by setTimeLimit by refactoring safe_bien_call/safe_bien_retry so call_fn runs inside safe_bien_call; preserve existing error-return behavior as much as possible; add deferRender = TRUE to recordsServer output$records_table datatable options; no unrelated edits.
 - Files changed: BIEN-TraitsShinyApp-Project/app_gateway.R; BIEN-TraitsShinyApp-Project/chat_provenance_log.md; agents/prompt_log.md
