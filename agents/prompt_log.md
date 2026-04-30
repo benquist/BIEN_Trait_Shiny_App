@@ -1,2 +1,3 @@
 - 2026-04-25: Expand README with detailed use cases, examples, background, search examples, and output examples.
 - 2026-04-25: BIEN-TraitsShinyApp-Project sync/push final-gate verification prompt for always-gate compliance.
+- 2026-04-26: Full README rewrite with step-by-step tutorial, examples, caveats, GitHub links. Commit d85f985 pushed to origin/main. Always-gate mandatory pre-return check.
