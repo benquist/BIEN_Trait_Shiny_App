@@ -1,7 +1,8 @@
 .Rhistory
 .RData
 .Ruserdata
-.Rproj.user/
-.Renviron
-.httr-oauth
+.DS_Store
 rsconnect/
+*.Rproj
+renv/library/
+renv/staging/
